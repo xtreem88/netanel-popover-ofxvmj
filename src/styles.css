@@ -1,0 +1,12 @@
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+@import "~@angular/cdk/overlay-prebuilt.css";
+
+button {
+  margin: 100px;
+}
+
+body {
+  background-color: lightgray;
+  height: 200vh;
+  padding: 200px !important;
+}
